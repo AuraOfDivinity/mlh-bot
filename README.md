@@ -6,6 +6,7 @@ Idea:
 
 
 Tech used:
+-JS
 -Nodejs
 -Expressjs
 -Twilio api
